@@ -8,3 +8,20 @@
     margin-top: 10px;
     margin-left: 35px;
 }
+.list1{
+    list-style: none;
+    margin-left: 380px;
+    margin-top: -15px;
+}
+.item1{
+    display:inline;
+    font-family: "Gotham";
+    color: #fff;
+    font-size: 14px;
+    font-weight: bold;
+    margin-left: 30px;
+}
+@font-face {
+    font-family: "Gotham";
+    src: url("Gotham.woff2");
+}
