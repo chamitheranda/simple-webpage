@@ -1,4 +1,10 @@
 .B{
     background-image: url("image/background.jpeg");
     background-size: 100%;
+    background-position-y: -93px;
+}
+#logo{
+    width: 120px;
+    margin-top: 10px;
+    margin-left: 35px;
 }
