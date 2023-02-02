@@ -100,3 +100,9 @@
     font-weight: bold;
     font-family: "Gotham";
 }
+.btn:hover{
+    background-color: #ffffff;
+    color: #000;
+    cursor: pointer;
+    transition: 0.5s;
+}
