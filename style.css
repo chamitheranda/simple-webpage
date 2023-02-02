@@ -106,3 +106,20 @@
     cursor: pointer;
     transition: 0.5s;
 }
+.item1:hover{
+    cursor: pointer;
+    background-color: rgba(130, 130, 130, 0.4);
+    box-shadow: 0px 0px 0px 10px rgba(130, 130, 130, 0.4);
+    border-radius: 1px;
+    transition: 0.5s;
+}
+.item2:hover{
+    cursor: pointer;
+    background-color: rgba(130, 130, 130, 0.4);
+    box-shadow: 0px 0px 0px 10px rgba(130, 130, 130, 0.4);
+    border-radius: 1px;
+    transition: 0.5s;
+}
+#logo{
+    cursor: pointer;
+}
