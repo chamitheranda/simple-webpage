@@ -57,3 +57,46 @@
     padding-top: 3px;
     font-weight:lighter;
 }
+.div1{
+    width: 1000px;
+    height: 100px;
+}
+.li3{
+    list-style: none;
+}
+.item3{
+    display:inline-block;
+    margin-left: 80px;
+    text-align: center;
+}
+.div2{
+    color: #fff;
+    font-family: "Gotham";
+    font-size: 25px;
+    font-weight: bold;
+}
+.div3{
+    color: #fff;
+    font-family: "Gotham";
+    font-size: 12px;
+    font-weight: normal;
+    padding-top: 5px;
+}
+.div1{
+    margin-top: 420px;
+    margin-left: 270px;
+}
+.item4{
+    margin-left: 606px;
+    margin-top: -50px;
+}
+.btn{
+    width: 200px;
+    height: 40px;
+    color: #fff;
+    border: 3px solid #fff;
+    background-color: unset;
+    border-radius: 4px;
+    font-weight: bold;
+    font-family: "Gotham";
+}
